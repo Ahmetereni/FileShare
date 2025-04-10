@@ -1,8 +1,6 @@
-# TOPSIS Method Flask Project
+# File Share
 
 ## Description
-This project implements the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method using a Flask web application. Users can upload excell data after tahn the program will generate topsis results using CRITIC Method which user will specify as excell columns.
-
 ![Description](qrcode.png)
 
 
