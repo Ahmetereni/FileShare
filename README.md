@@ -1,6 +1,7 @@
 # File Share
 
 ## Description
+Share your files from your computer easily!
 ![Description](qrcode.png)
 
 
